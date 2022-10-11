@@ -1,0 +1,15 @@
+C:\Users\xmini\Documents\BootcampLabs\ATMLab\ATMLab\bin\Debug\net6.0\ATMLab.exe
+C:\Users\xmini\Documents\BootcampLabs\ATMLab\ATMLab\bin\Debug\net6.0\ATMLab.deps.json
+C:\Users\xmini\Documents\BootcampLabs\ATMLab\ATMLab\bin\Debug\net6.0\ATMLab.runtimeconfig.json
+C:\Users\xmini\Documents\BootcampLabs\ATMLab\ATMLab\bin\Debug\net6.0\ATMLab.dll
+C:\Users\xmini\Documents\BootcampLabs\ATMLab\ATMLab\bin\Debug\net6.0\ATMLab.pdb
+C:\Users\xmini\Documents\BootcampLabs\ATMLab\ATMLab\obj\Debug\net6.0\ATMLab.csproj.AssemblyReference.cache
+C:\Users\xmini\Documents\BootcampLabs\ATMLab\ATMLab\obj\Debug\net6.0\ATMLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmini\Documents\BootcampLabs\ATMLab\ATMLab\obj\Debug\net6.0\ATMLab.AssemblyInfoInputs.cache
+C:\Users\xmini\Documents\BootcampLabs\ATMLab\ATMLab\obj\Debug\net6.0\ATMLab.AssemblyInfo.cs
+C:\Users\xmini\Documents\BootcampLabs\ATMLab\ATMLab\obj\Debug\net6.0\ATMLab.csproj.CoreCompileInputs.cache
+C:\Users\xmini\Documents\BootcampLabs\ATMLab\ATMLab\obj\Debug\net6.0\ATMLab.dll
+C:\Users\xmini\Documents\BootcampLabs\ATMLab\ATMLab\obj\Debug\net6.0\refint\ATMLab.dll
+C:\Users\xmini\Documents\BootcampLabs\ATMLab\ATMLab\obj\Debug\net6.0\ATMLab.pdb
+C:\Users\xmini\Documents\BootcampLabs\ATMLab\ATMLab\obj\Debug\net6.0\ATMLab.genruntimeconfig.cache
+C:\Users\xmini\Documents\BootcampLabs\ATMLab\ATMLab\obj\Debug\net6.0\ref\ATMLab.dll
